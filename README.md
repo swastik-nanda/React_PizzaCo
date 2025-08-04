@@ -58,8 +58,7 @@ A full-stack pizza delivery application built with the MERN stack, providing use
 
 <!-- Add your project screenshots here -->
 ## 🏠 HomePage
-https://github.com/swastik-nanda/React_PizzaCo/issues/1#issue-3287709935
-*Screenshots will be added here - please upload your project images*
+![Homepage](https://github.com/user-attachments/assets/a350cb91-6b3b-4ec2-96eb-b24019d00818)
 
 ## 🚀 Installation
 

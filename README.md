@@ -56,9 +56,48 @@ A full-stack pizza delivery application built with the MERN stack, providing use
 
 ## 📸 Screenshots
 
-<!-- Add your project screenshots here -->
-## 🏠 HomePage
+### 🏠 Homepage - Landing Page
+The welcoming homepage with clean design and clear call-to-action, featuring the signature yellow branding and order search functionality.
+
 ![Homepage](https://github.com/user-attachments/assets/a350cb91-6b3b-4ec2-96eb-b24019d00818)
+
+### 🔐 User Authentication
+Seamless login and registration system with user-friendly modal dialogs and form validation.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/16d7ca7a-0d7a-4666-9a41-d977e67f6fca" width="400" alt="Login Modal">
+  <img src="https://github.com/user-attachments/assets/a7e5b1da-ce1d-4e79-ae82-b94960dbfb53" width="400" alt="Signup Modal">
+</div>
+
+### 🍕 Pizza Menu & Selection
+Browse through our extensive pizza catalog with detailed descriptions and easy selection options.
+
+![Pizza Menu](https://github.com/user-attachments/assets/86ea278e-da42-4fe7-baac-1ec7611eb118)
+
+### 🛒 Shopping Cart & Checkout
+Efficient cart management with real-time updates and streamlined checkout process.
+
+![Shopping Cart](https://github.com/user-attachments/assets/59bbee54-8b82-405d-8310-874e228c7c00)
+
+### 📦 Order Management
+Complete order tracking system with unique order IDs and status updates.
+
+![Order Tracking](https://github.com/user-attachments/assets/0d68c97d-1ede-4a52-9e16-352afbc0e16c)
+
+### 👨‍💼 Admin Dashboard
+Comprehensive admin panel for managing orders, users, and menu items.
+
+![Admin Dashboard](https://github.com/user-attachments/assets/75d567be-1a2e-47f5-a682-186b70a70356)
+
+### 📊 Admin Order Management
+Real-time order status management and detailed order information for administrators.
+
+![Admin Order Management](https://github.com/user-attachments/assets/861fabaa-0d78-46f6-bf12-d3a2537124f4)
+
+### 🎯 User Dashboard
+Personalized user experience with order history and account management features.
+
+![User Dashboard](https://github.com/user-attachments/assets/7a6bf45c-fd01-49d8-921f-17152443c37a)
 
 ## 🚀 Installation
 

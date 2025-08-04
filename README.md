@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@sassyswas](https://github.com/swastik-nanda)
-- LinkedIn: [@swastik-nanda](https://www.linkedin.com/in/swastik-nanda-837b35251/))
+- LinkedIn: [@swastik-nanda](https://www.linkedin.com/in/swastik-nanda-837b35251/)
 - Email: swastik2004nanda@gmail.com
 
 ## 🙏 Acknowledgments
